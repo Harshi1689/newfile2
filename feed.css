@@ -1,0 +1,61 @@
+body{
+        background-image: url("—Pngtree—five-star\ rating\ icon\ inside\ speech_18843331.png");
+        background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+.outer{
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: left;
+    margin-left: 100px;
+    width: 50%;
+    
+}
+.inner{
+    margin-top: 70px;
+    margin-bottom: 90px;
+}
+img:active{
+    box-shadow: 2px 2px 2px 2px rgb(219, 215, 201);
+}
+#im:hover{
+    background-color: rgb(249, 62, 62);
+}
+#img:hover{
+     background-color: rgb(242, 59, 59);
+    
+
+}
+#ima:hover{
+     background-color: rgb(160, 156, 28);
+    
+
+}
+#imag:hover{
+     background-color: rgb(241, 218, 36);
+    
+
+}
+#image:hover{
+     background-color: rgb(255, 174, 0);
+    
+
+}
+button{
+    background-color: rgb(238, 211, 79);
+    border: 1px solid black;
+    width: 20%;
+    padding:10px;
+    margin-left: 210px;
+    margin-top: 40px;
+
+}
+p{
+    font-size: x-large;
+}
+button:active{
+    background-color: yellow;
+}
